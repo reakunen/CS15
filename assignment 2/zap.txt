@@ -1,0 +1,104 @@
+I wake up, my shoulder's cold
+I've got to leave here, before I go
+I pull my shirt on, walk out the door
+Drag my feet along the floor
+I pull my shirt on, walk out the door
+Drag my feet along the floor
+Then I see you, you're walking 'cross the campus
+Cruel professor, studying romances
+How am I supposed to pretend
+I never want to see you again?
+How am I supposed to pretend
+I never want to see you again?
+Walked to class in front of ya
+Spilled kefir on your keffiyah
+You look inside and turn to the door
+Drag your feet along the floor
+Then I see you, you're walking 'cross the campus
+Cruel professor, studying romances
+How am I supposed to pretend
+I never want to see you again?
+How am I supposed to pretend
+I never want to see you again?
+In the afternoon, you're out on the stone and grass
+And I'm sleeping on the balcony after class
+In the afternoon, you're out on the stone and grass
+And I'm sleeping on the balcony after class
+In the afternoon, you're out on the stone and grass
+And I'm sleeping on the balcony after class
+In the afternoon, you're out on the stone and grass
+And I'm sleeping on the balcony after class
+--------------------
+Word Count      Word
+--------------------
+ 14                I
+  1             I've
+  1              got
+ 11               to
+  1            leave
+  1             here
+  1           before
+  1               go
+  2             pull
+  4               my
+  2            shirt
+ 11               on
+  2             walk
+  6              out
+ 20              the
+  3             door
+  3             Drag
+  3             feet
+  3            along
+  3            floor
+  2             Then
+  6              see
+  6              you
+  6           you're
+  2          walking
+  2           'cross
+  2           campus
+  2            Cruel
+  2        professor
+  2         studying
+  2         romances
+  4              How
+  4               am
+  4         supposed
+  4          pretend
+  4            never
+  4             want
+  4            again
+  1           Walked
+  5            class
+  1               in
+  1            front
+  1               of
+  1               ya
+  1          Spilled
+  1            kefir
+  2             your
+  1         keffiyah
+  1              You
+  1             look
+  1           inside
+  5              and
+  1             turn
+  4               In
+  4        afternoon
+  4            stone
+  4            grass
+  4              And
+  4              I'm
+  4         sleeping
+  4          balcony
+  4            after
+
+--------------------
+Output
+--------------------
+Smallest Word: I
+Longest Word: professor
+Total Words: 215
+Line Count: 30
+Unique Words: 62
