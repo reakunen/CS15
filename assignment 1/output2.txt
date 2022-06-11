@@ -1,6 +1,0 @@
-- Quadratic calculator -
- Root 1        Root 2
-Complex/ imaginary roots
-Complex/ imaginary roots
- -1.618       0.61803
-      1          -0.5
