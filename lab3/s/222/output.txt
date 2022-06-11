@@ -1,0 +1,38 @@
+Enter line 1: delimiter token ,. delimiter
+line entered: delimiter token ,. delimiter
+token 1: delimiter
+token 2: token
+token 3: delimiter
+Enter line 2: vanilla icecream and chocolate....ss   
+line entered: vanilla icecream and chocolate....ss
+token 1: vanilla
+token 2: icecream
+token 3: and
+token 4: chocolate
+token 5: ss
+Enter line 3: fjdlksafj qwe.., ewqoue o
+line entered: fjdlksafj qwe.., ewqoue o
+token 1: fjdlksafj
+token 2: qwe
+token 3: ewqoue
+token 4: o
+Enter line 4: nice work
+line entered: nice work
+token 1: nice
+token 2: work
+Enter line 5: my strtok clone actually works well 
+line entered: my strtok clone actually works well 
+token 1: my
+token 2: strtok
+token 3: clone
+token 4: actually
+token 5: works
+token 6: well
+Enter line 6: nice
+line entered: nice
+token 1: nice
+Enter line 7:    ok 
+line entered:    ok 
+token 1: ok
+Enter line 8: quit
+Program has ended. 

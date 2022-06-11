@@ -1,0 +1,12 @@
+Absolute value of d: 12.39
+Absolute value of a: 5
+Min between a & b: 1
+Max between a & b: 5
+Min between a & b & c: 1
+Max between a & b & c: 15.32
+lessThan method using val1 & val2: 5
+lessThan method using val3 & val2: -5
+lessThan method using val4 & val5: -23.2
+greaterThan method using val1 & val2: 10
+greaterThan method using val3 & val2: 10
+greaterThan method using val4 & val5: 12.12
