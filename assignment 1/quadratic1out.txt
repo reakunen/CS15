@@ -1,0 +1,7 @@
+- Quadratic calculator -
+ Root 1        Root 2
+Complex/ imaginary roots
+ 1.7232       0.19344
+Complex/ imaginary roots
+Error cannot have "a" as 0
+Error in data file.
