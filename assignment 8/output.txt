@@ -1,0 +1,143 @@
+--------------------------------------------
+Input: input.txt		 Output: output.txt
+Seeded with: 100
+--------------------------------------------
+ -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1   0  -1  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+ -1   0   0   0  -1  -1   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0  -1   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0  -1   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0  -1  -1   0   0   0   0  -1 
+ -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1 
+--------------------------------------------
+Mouse 1 drank too much water.
+Mouse 2 drank too much water.
+Mouse 3 forgot to eat breakfast today...
+Mouse 4 drank too much water.
+Mouse 5 drank too much water.
+Mouse 6 drank too much water.
+Mouse 7 drank too much water.
+Mouse 8 drank too much water.
+Mouse 9 drank too much water.
+Mouse 10 drank too much water.
+Mouse 11 drank too much water.
+Mouse 12 drank too much water.
+Mouse 13 drank too much water.
+Mouse 14 drank too much water.
+Mouse 15 drank too much water.
+Mouse 16 drank too much water.
+Mouse 17 drank too much water.
+Mouse 18 drank too much water.
+Mouse 19 drank too much water.
+Mouse 20 drank too much water.
+Mouse 21 drank too much water.
+Mouse 22 drank too much water.
+Mouse 23 drank too much water.
+Mouse 24 drank too much water.
+Mouse 25 drank too much water.
+Mouse 26 drank too much water.
+Mouse 27 drank too much water.
+Mouse 28 drank too much water.
+Mouse 29 drank too much water.
+Mouse 30 drank too much water.
+Mouse 31 drank too much water.
+Mouse 32 drank too much water.
+Mouse 33 drank too much water.
+Mouse 34 drank too much water.
+Mouse 35 drank too much water.
+Mouse 36 forgot to eat breakfast today...
+Mouse 37 drank too much water.
+Mouse 38 drank too much water.
+Mouse 39 drank too much water.
+Mouse 40 drank too much water.
+Mouse 41 drank too much water.
+Mouse 42 drank too much water.
+Mouse 43 drank too much water.
+Mouse 44 drank too much water.
+Mouse 45 drank too much water.
+Mouse 46 drank too much water.
+Mouse 47 drank too much water.
+Mouse 48 drank too much water.
+Mouse 49 drank too much water.
+Mouse 50 drank too much water.
+Mouse 51 drank too much water.
+Mouse 52 drank too much water.
+Mouse 53 drank too much water.
+Mouse 54 drank too much water.
+Mouse 55 drank too much water.
+Mouse 56 drank too much water.
+Mouse 57 drank too much water.
+Mouse 58 drank too much water.
+Mouse 59 drank too much water.
+Mouse 60 drank too much water.
+Mouse 61 drank too much water.
+Mouse 62 drank too much water.
+Mouse 63 drank too much water.
+Mouse 64 drank too much water.
+Mouse 65 drank too much water.
+Mouse 66 drank too much water.
+Mouse 67 drank too much water.
+Mouse 68 drank too much water.
+Mouse 69 drank too much water.
+Mouse 70 drank too much water.
+Mouse 71 drank too much water.
+Mouse 72 drank too much water.
+Mouse 73 drank too much water.
+Mouse 74 drank too much water.
+Mouse 75 drank too much water.
+Mouse 76 drank too much water.
+Mouse 77 drank too much water.
+Mouse 78 drank too much water.
+Mouse 79 drank too much water.
+Mouse 80 drank too much water.
+Mouse 81 forgot to eat breakfast today...
+Mouse 82 drank too much water.
+Mouse 83 forgot to eat breakfast today...
+Mouse 84 drank too much water.
+Mouse 85 drank too much water.
+Mouse 86 drank too much water.
+Mouse 87 drank too much water.
+Mouse 88 drank too much water.
+Mouse 89 drank too much water.
+Mouse 90 drank too much water.
+Mouse 91 drank too much water.
+Mouse 92 drank too much water.
+Mouse 93 drank too much water.
+Mouse 94 forgot to eat breakfast today...
+Mouse 95 drank too much water.
+Mouse 96 drank too much water.
+Mouse 97 drank too much water.
+Mouse 98 drank too much water.
+Mouse 99 drank too much water.
+Mouse 100 drank too much water.
+--------------------------------------------
+Statistics over the lives of 100 unfortunate mice: 
+Total Mice Drowned: 95
+Total Mice Starved: 5
+Total Mice Escaped: 0
+--------------------------------------------
+Mice move counts: 
+  0   0   0   1   0   0   2   0   0   0   0   0   2   0   0   0   0   0 
+  0   0   1   1   1   2   4   1   0   0   1   1   5   2   0   0   0   0 
+  1   1   2   3   4   4   3   4   1   4   6   6  10   5   1   0   0   0 
+  0   2   2   3   2   2   3   7   2   4   9   9   4   2   1   0   0   0 
+  0   1   2   2   6   2   6   9   4   2   6  13   6   2   3   2   0   0 
+  2   4  10  10  12  14  16  21  12   6  13   9   4   4   2   0   0   0 
+  2   3  15  26  47  33  27  24  24  20  24  15  10   2   0   1   1   1 
+  3  11  26  48  78  66  48  41  40  30  21  15  12   7   4   1   0   0 
+  2  16  55 108 134  99  66  43  47  22  17  13   7  10   7   0   0   0 
+  2  15  57 123 105 113  85  39  52  31  26  16  12   9   4   3   2   1 
+  5  30  54  89 110  87  76  44  38  29  25  16  12   6   9   6   1   0 
+  8  21  39  47  55  53  52  34  29  27  14   6   9   7   6   1   0   0 
+  4  20  33  27  29  23  28  20  16  15   8   4   8   6   2   2   2   0 
+  4  14  20  20  17  14  16   6   7   5   5   2   0   1   0   1   2   1 
+  0   3   4   4   3   2   6   0   2   0   2   0   0   0   0   0   0   0 
+--------------------------------------------

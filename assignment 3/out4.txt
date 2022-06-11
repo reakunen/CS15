@@ -1,0 +1,127 @@
+--------------------------------------------
+Input: map4.txt		 Output: out4.txt
+Seeded with: 1
+--------------------------------------------
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+-1  1  0  0  0  0  0  0  0  0  0  0 
+-1  0  0  0  0  0 -1 -1 -1 -1 -1 -1 
+-1  0  0  0  0 -1 -1 -1 -1 -1 -1 -1 
+-1  0  0  0  0 -1 -1 -1 -1 -1 -1 -1 
+-1  0  0  0 -1 -1 -1 -1 -1 -1 -1 -1 
+-1 -1 -1  0 -1 -1 -1 -1 -1 -1 -1 -1 
+--------------------------------------------
+Mouse 1 drank too much water.
+Mouse 2 drank too much water.
+Mouse 3 drank too much water.
+Mouse 4 drank too much water.
+Mouse 5 drank too much water.
+Mouse 6 drank too much water.
+Mouse 7 drank too much water.
+Mouse 8 drank too much water.
+Mouse 9 drank too much water.
+Mouse 10 drank too much water.
+Mouse 11 drank too much water.
+Mouse 12 drank too much water.
+Mouse 13 drank too much water.
+Mouse 14 drank too much water.
+Mouse 15 drank too much water.
+Mouse 16 drank too much water.
+Mouse 17 drank too much water.
+Mouse 18 drank too much water.
+Mouse 19 has immigrated to Canada!
+Mouse 20 drank too much water.
+Mouse 21 drank too much water.
+Mouse 22 drank too much water.
+Mouse 23 drank too much water.
+Mouse 24 drank too much water.
+Mouse 25 drank too much water.
+Mouse 26 drank too much water.
+Mouse 27 drank too much water.
+Mouse 28 drank too much water.
+Mouse 29 drank too much water.
+Mouse 30 drank too much water.
+Mouse 31 drank too much water.
+Mouse 32 drank too much water.
+Mouse 33 drank too much water.
+Mouse 34 drank too much water.
+Mouse 35 drank too much water.
+Mouse 36 drank too much water.
+Mouse 37 drank too much water.
+Mouse 38 drank too much water.
+Mouse 39 drank too much water.
+Mouse 40 drank too much water.
+Mouse 41 drank too much water.
+Mouse 42 drank too much water.
+Mouse 43 drank too much water.
+Mouse 44 drank too much water.
+Mouse 45 drank too much water.
+Mouse 46 drank too much water.
+Mouse 47 drank too much water.
+Mouse 48 drank too much water.
+Mouse 49 drank too much water.
+Mouse 50 drank too much water.
+Mouse 51 drank too much water.
+Mouse 52 drank too much water.
+Mouse 53 drank too much water.
+Mouse 54 drank too much water.
+Mouse 55 drank too much water.
+Mouse 56 drank too much water.
+Mouse 57 drank too much water.
+Mouse 58 drank too much water.
+Mouse 59 drank too much water.
+Mouse 60 drank too much water.
+Mouse 61 drank too much water.
+Mouse 62 drank too much water.
+Mouse 63 drank too much water.
+Mouse 64 drank too much water.
+Mouse 65 drank too much water.
+Mouse 66 drank too much water.
+Mouse 67 drank too much water.
+Mouse 68 drank too much water.
+Mouse 69 drank too much water.
+Mouse 70 drank too much water.
+Mouse 71 drank too much water.
+Mouse 72 drank too much water.
+Mouse 73 drank too much water.
+Mouse 74 drank too much water.
+Mouse 75 drank too much water.
+Mouse 76 drank too much water.
+Mouse 77 drank too much water.
+Mouse 78 drank too much water.
+Mouse 79 drank too much water.
+Mouse 80 drank too much water.
+Mouse 81 drank too much water.
+Mouse 82 drank too much water.
+Mouse 83 drank too much water.
+Mouse 84 drank too much water.
+Mouse 85 drank too much water.
+Mouse 86 drank too much water.
+Mouse 87 drank too much water.
+Mouse 88 drank too much water.
+Mouse 89 drank too much water.
+Mouse 90 drank too much water.
+Mouse 91 drank too much water.
+Mouse 92 drank too much water.
+Mouse 93 drank too much water.
+Mouse 94 drank too much water.
+Mouse 95 drank too much water.
+Mouse 96 drank too much water.
+Mouse 97 has immigrated to Canada!
+Mouse 98 drank too much water.
+Mouse 99 drank too much water.
+Mouse 100 drank too much water.
+--------------------------------------------
+Statistics over the lives of 100 unfortunate mice: 
+Total Mice Drowned: 98
+Total Mice Starved: 0
+Total Mice Escaped: 2
+--------------------------------------------
+Mice move counts: 
+ 0 34 12  2  0  2  0  0  0  0  0  0 
+23 28 44  9  2  2  0  0  0  0  0  0 
+10 45 27  9  3  2  1  0  0  0  0  0 
+ 4 17 18  4  1  1  0  0  0  0  0  0 
+ 4 12 18  6  0  0  0  0  0  0  0  0 
+ 3  7  9  3  0  0  0  0  0  0  0  0 
+ 0  0  2  2  0  0  0  0  0  0  0  0 
+--------------------------------------------

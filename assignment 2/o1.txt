@@ -1,0 +1,50 @@
+-----------------------------------
+Input File: i1.txt
+Output File: o1.txt
+-----------------------------------
+the quick brown fox jumps over the lazy dog.
+now is the time for all good men to come to the aid of their party.
+all i want for christmas is my two front teeth.
+the quick brown fox jumps over a lazy dog.
+
+-----------------------------------
+Word Count          Word
+-----------------------------------
+5                   the
+2                   quick
+2                   brown
+2                   fox
+2                   jumps
+2                   over
+2                   lazy
+2                   dog
+1                   now
+2                   is
+1                   time
+2                   for
+2                   all
+1                   good
+1                   men
+2                   to
+1                   come
+1                   aid
+1                   of
+1                   their
+1                   party
+1                   i
+1                   want
+1                   christmas
+1                   my
+1                   two
+1                   front
+1                   teeth
+1                   a
+-----------------------------------
+Statistics
+-----------------------------------
+  Longest Word:  christmas
+ Shortest Word:          i
+   Total Words:         44
+  Unique Words:         29
+   Total Lines:          4
+-----------------------------------

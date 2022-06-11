@@ -1,0 +1,112 @@
+-----------------------------------
+Input File: i3.txt
+Output File: o3.txt
+-----------------------------------
+PayPal (ticker: PYPL) reported a fourth-quarter profit of $1.11 a share Tuesday, 
+narrowly missing forecasts of $1.12 a share. 
+Sales of $6.92 billion topped estimates for $6.89 billion.
+
+But PayPal said it expects to earn between $4.60 and $4.75 
+a share this fiscal year, below forecasts for $5.25. 
+Guidance for revenue growth of 15% to 17% is also lower than its initial 18% forecast.
+
+That guidance has rocked the apple cart. The 25% drop was PayPal’s worst decline on record, 
+worse than the 15.8% decline seen on March 16, 2020. 
+The stock ended the day around $132, a 52-week low.
+
+-----------------------------------
+Word Count          Word
+-----------------------------------
+2                   PayPal
+1                   (ticker
+1                   PYPL)
+1                   reported
+5                   a
+1                   fourth-quarter
+1                   profit
+4                   of
+2                   $1
+1                   11
+3                   share
+1                   Tuesday
+1                   narrowly
+1                   missing
+2                   forecasts
+1                   12
+1                   Sales
+2                   $6
+1                   92
+2                   billion
+1                   topped
+1                   estimates
+3                   for
+1                   89
+1                   But
+1                   said
+1                   it
+1                   expects
+2                   to
+1                   earn
+1                   between
+2                   $4
+1                   60
+1                   and
+1                   75
+1                   this
+1                   fiscal
+1                   year
+1                   below
+1                   $5
+1                   25
+1                   Guidance
+1                   revenue
+1                   growth
+1                   15%
+1                   17%
+1                   is
+1                   also
+1                   lower
+2                   than
+1                   its
+1                   initial
+1                   18%
+1                   forecast
+1                   That
+1                   guidance
+1                   has
+1                   rocked
+3                   the
+1                   apple
+1                   cart
+2                   The
+1                   25%
+1                   drop
+1                   was
+1                   PayPal’s
+1                   worst
+2                   decline
+2                   on
+1                   record
+1                   worse
+1                   15
+1                   8%
+1                   seen
+1                   March
+1                   16
+1                   2020
+1                   stock
+1                   ended
+1                   day
+1                   around
+1                   $132
+1                   52-week
+1                   low
+-----------------------------------
+Statistics
+-----------------------------------
+  Longest Word: fourth-quarter
+ Shortest Word:          a
+   Total Words:        108
+  Unique Words:         84
+   Total Lines:         11
+-----------------------------------

@@ -1,0 +1,1 @@
+g++ -o client client.cpp quadrilateral.cpp trapezoid.cpp parallelogram.cpp rectangle.cpp square.cpp && ./client

@@ -1,0 +1,127 @@
+--------------------------------------------
+Input: map6.txt		 Output: out6.txtcd
+Seeded with: /Users/brianmai/Documents/csci15/assignment3/
+--------------------------------------------
+-1 -1 -1 -1 -1 -1 -1 
+-1  0  0  0  0  0 -1 
+-1  0  0  0  0  0 -1 
+-1  0  0  0  0  0 -1 
+-1  0  0  0  0  0 -1 
+-1  0  0  1  0  0 -1 
+-1 -1 -1  0  0 -1 -1 
+--------------------------------------------
+Mouse 1 has immigrated to Canada!
+Mouse 2 has immigrated to Canada!
+Mouse 3 has immigrated to Canada!
+Mouse 4 drank too much water.
+Mouse 5 drank too much water.
+Mouse 6 has immigrated to Canada!
+Mouse 7 drank too much water.
+Mouse 8 has immigrated to Canada!
+Mouse 9 drank too much water.
+Mouse 10 has immigrated to Canada!
+Mouse 11 has immigrated to Canada!
+Mouse 12 has immigrated to Canada!
+Mouse 13 drank too much water.
+Mouse 14 has immigrated to Canada!
+Mouse 15 drank too much water.
+Mouse 16 drank too much water.
+Mouse 17 has immigrated to Canada!
+Mouse 18 drank too much water.
+Mouse 19 drank too much water.
+Mouse 20 drank too much water.
+Mouse 21 has immigrated to Canada!
+Mouse 22 has immigrated to Canada!
+Mouse 23 has immigrated to Canada!
+Mouse 24 drank too much water.
+Mouse 25 has immigrated to Canada!
+Mouse 26 has immigrated to Canada!
+Mouse 27 has immigrated to Canada!
+Mouse 28 drank too much water.
+Mouse 29 drank too much water.
+Mouse 30 drank too much water.
+Mouse 31 has immigrated to Canada!
+Mouse 32 drank too much water.
+Mouse 33 has immigrated to Canada!
+Mouse 34 drank too much water.
+Mouse 35 drank too much water.
+Mouse 36 has immigrated to Canada!
+Mouse 37 drank too much water.
+Mouse 38 has immigrated to Canada!
+Mouse 39 has immigrated to Canada!
+Mouse 40 drank too much water.
+Mouse 41 drank too much water.
+Mouse 42 drank too much water.
+Mouse 43 has immigrated to Canada!
+Mouse 44 drank too much water.
+Mouse 45 has immigrated to Canada!
+Mouse 46 has immigrated to Canada!
+Mouse 47 drank too much water.
+Mouse 48 drank too much water.
+Mouse 49 drank too much water.
+Mouse 50 drank too much water.
+Mouse 51 has immigrated to Canada!
+Mouse 52 has immigrated to Canada!
+Mouse 53 has immigrated to Canada!
+Mouse 54 has immigrated to Canada!
+Mouse 55 has immigrated to Canada!
+Mouse 56 has immigrated to Canada!
+Mouse 57 has immigrated to Canada!
+Mouse 58 drank too much water.
+Mouse 59 has immigrated to Canada!
+Mouse 60 has immigrated to Canada!
+Mouse 61 has immigrated to Canada!
+Mouse 62 has immigrated to Canada!
+Mouse 63 has immigrated to Canada!
+Mouse 64 drank too much water.
+Mouse 65 drank too much water.
+Mouse 66 has immigrated to Canada!
+Mouse 67 drank too much water.
+Mouse 68 has immigrated to Canada!
+Mouse 69 drank too much water.
+Mouse 70 drank too much water.
+Mouse 71 drank too much water.
+Mouse 72 has immigrated to Canada!
+Mouse 73 drank too much water.
+Mouse 74 has immigrated to Canada!
+Mouse 75 drank too much water.
+Mouse 76 drank too much water.
+Mouse 77 drank too much water.
+Mouse 78 has immigrated to Canada!
+Mouse 79 drank too much water.
+Mouse 80 drank too much water.
+Mouse 81 drank too much water.
+Mouse 82 has immigrated to Canada!
+Mouse 83 drank too much water.
+Mouse 84 drank too much water.
+Mouse 85 has immigrated to Canada!
+Mouse 86 drank too much water.
+Mouse 87 has immigrated to Canada!
+Mouse 88 drank too much water.
+Mouse 89 drank too much water.
+Mouse 90 has immigrated to Canada!
+Mouse 91 drank too much water.
+Mouse 92 drank too much water.
+Mouse 93 has immigrated to Canada!
+Mouse 94 drank too much water.
+Mouse 95 has immigrated to Canada!
+Mouse 96 has immigrated to Canada!
+Mouse 97 has immigrated to Canada!
+Mouse 98 drank too much water.
+Mouse 99 drank too much water.
+Mouse 100 has immigrated to Canada!
+--------------------------------------------
+Statistics over the lives of 100 lucky survivors: 
+Total Mice Drowned: 50
+Total Mice Starved: 0
+Total Mice Escaped: 50
+--------------------------------------------
+Mice move counts: 
+ 0  0  3  3  3  2  0 
+ 2  5 12 13 11  6  2 
+ 1  8 18 26 24  7  2 
+ 6 13 19 35 33 11  3 
+ 2 11 27 65 41 15  3 
+ 2  8 37 47 54 17  3 
+ 0  2  6 37 13  5  0 
+--------------------------------------------
